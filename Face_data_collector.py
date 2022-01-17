@@ -1,3 +1,4 @@
+##This will identify if any face is not saved in our datbase
 import cv2
 import numpy as np
 cap = cv2.VideoCapture(0,cv2.CAP_DSHOW)
